@@ -1,0 +1,177 @@
+*{
+			margin:0px;
+			padding:0px;
+			box-sizing: border-box;
+		}
+		.a{
+			height:500px;
+			width:800px;
+			background-color: gray;
+		}
+		.b{
+			height:50px;
+			width:800px;
+			background-color:white;
+			margin:10px 10px 5px 5px;
+			
+		
+
+		}
+		.c{
+			height:450px;
+			width:800px;
+			background-color:gray;
+			
+			
+			
+		}
+		.d{
+			height:350px;
+			width:250px;
+			background-color:white;
+			margin:20px 10px 80px 30px;
+			float:left;
+			
+	
+		}
+		.e{
+			height:450px;
+			width:500px;
+			background-color:gray;
+			float:right;
+		
+		}
+		.f{
+			height:200px;
+			width:470px;
+			background-color:white;
+			margin:10px 10px 10px 10px;
+			
+		
+		}
+		.g{
+			height:200px;
+			width:470px;
+			background-color:white;
+			margin:10px 10px 5px 10px;
+			
+		
+		}
+		.b1{
+			background-color: lightgreen;
+			color:white;
+			font-size:20px;
+		}
+		.b2{
+			background-color:deepskyblue;
+			color:white;
+			font-size:20px;
+		}
+		.b3{
+			background-color:deepskyblue;
+			color:white;
+			font-size:20px;
+		}
+		.b4{
+			background-color:deepskyblue;
+			color:white;
+			font-size:20px;
+		}
+		.b5{
+			background-color:red;
+			color:white;
+			font-size:20px;
+		}
+		button{
+			    background-color: blue;
+			    color:white;
+			    font-size:14px ;
+			    border-radius: 5px;
+		}
+		p{
+			color:black;
+			font-size:13px;
+			text-align: left;
+			padding-left:10px;
+		}
+		h3{
+			color:black;
+			font-size:15px;
+			text-align: left;
+			padding-left:10px;
+		}
+		h2{
+			color:black;
+			font-size:20px;
+			text-align: center;
+			
+		}
+		
+		p{
+			color:black;
+			font-size:13px;
+			text-align: left;
+			padding-left:10px;
+		}
+		.p1{
+			color:black;
+			font-size:13px;
+			text-align: right;
+
+		}
+		label{
+			   padding-left:5px;
+		}
+		span{
+			  font-size:13px:;
+			  color:black;
+			  text-align:right;
+		}
+		#bye1{
+               background-color: blue;
+               width:85%;
+               height: 2px;
+               border: none;
+
+        }
+        #bye2{
+               background-color: red;
+               width:77%;
+               height: 2px;
+               border: none;
+        }
+        #bye3{
+                background-color: green;
+                width:90%;
+                height: 2px;
+                border: none;
+        }
+        #bye4{
+                background-color: yellow;
+                width:65%;
+                height: 2px;
+                border: none;
+        }
+        #bye5{
+                background-color: cadetblue;
+                width:70%;
+                height: 2px;
+                border: none;
+        }
+       #z{
+        	margin-right:150px;
+        	font-size:10px;
+        } 
+        #y{
+        	margin-right: 100px;
+        	font-size:10px;
+        } 
+       
+        .p2{
+			color:black;
+			font-size:13px;
+			margin-left:100px;
+		}
+		label{
+			    margin-right:100px;
+		}
